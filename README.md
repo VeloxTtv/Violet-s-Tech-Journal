@@ -9,4 +9,6 @@ Lab 2-1: Meant to register for a net academy account, and get started with Packe
 
 Lab 2-2: Observed Lan activity in Wireshark, recording source and destination Mac addresses as well as the wifi's default gateway. 
 
-Lab 3-1: Observed ARP requests and replies over LAN. The command we used to dumb the ARP cache in linux was sudo ip neigh flush all.
+Lab 3-1: Observed ARP requests and replies over LAN using Wireshark. The command we used to dumb the ARP cache in linux was sudo ip neigh flush all.
+
+Lab 3-2: Observed ARP requests and replies over LAN using Wireshark. Learned that the destination MAC address isn't that of what you're pinging but is likely the MAC address of the router.
