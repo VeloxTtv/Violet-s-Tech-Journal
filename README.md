@@ -12,3 +12,5 @@ Lab 2-2: Observed Lan activity in Wireshark, recording source and destination Ma
 Lab 3-1: Observed ARP requests and replies over LAN using Wireshark. The command we used to dumb the ARP cache in linux was sudo ip neigh flush all.
 
 Lab 3-2: Observed ARP requests and replies over LAN using Wireshark. Learned that the destination MAC address isn't that of what you're pinging but is likely the MAC address of the router.
+
+Lab 4-2: Created 3 routers each with one switch and two IP addresses. Experimented with learning network and broadcast IP's, first and last usable host IP's, and /27 networks.
