@@ -16,3 +16,5 @@ Lab 3-2: Observed ARP requests and replies over LAN using Wireshark. Learned tha
 Lab 4-2: Created 3 routers each with one switch and two IP addresses. Experimented with learning network and broadcast IP's, first and last usable host IP's, and /27 networks.
 
 Lab 5-2: Created a network in packet tracer independantly. When setting computers IP's statically, the default gateway should be the same as the roouters configured IP for the port. Make sure to add info to RIP, if network is 192.168.1.1 add 192.168.1.0 to RIP.
+
+Lab 6-1: Practiced making networks in Packet Tracer. Got a refresher on CIDR notation. (2^(32-n) where in is the prefix in CIDR notation)
