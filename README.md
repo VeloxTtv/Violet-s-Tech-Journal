@@ -18,3 +18,5 @@ Lab 4-2: Created 3 routers each with one switch and two IP addresses. Experiment
 Lab 5-2: Created a network in packet tracer independantly. When setting computers IP's statically, the default gateway should be the same as the roouters configured IP for the port. Make sure to add info to RIP, if network is 192.168.1.1 add 192.168.1.0 to RIP.
 
 Lab 6-1: Practiced making networks in Packet Tracer. Got a refresher on CIDR notation. (2^(32-n) where n is the prefix in CIDR notation)
+
+Lab 9-1: COnfigured static ip routes for routers in packettracer using the command ip route (ip) (subnet mask) (interface), for example ip route 192.168.20.0 255.255.255.0 10.10.20.1. Also discussed why this method of configuring static routes for each router is unideal on a larger scale.
