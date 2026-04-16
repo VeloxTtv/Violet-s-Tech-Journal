@@ -22,3 +22,5 @@ Lab 6-1: Practiced making networks in Packet Tracer. Got a refresher on CIDR not
 Lab 9-1: Configured static ip routes for routers in packettracer using the command ip route (ip) (subnet mask) (interface), for example ip route 192.168.20.0 255.255.255.0 10.10.20.1. Also discussed why this method of configuring static routes for each router is unideal on a larger scale.
 
 Lab 9-2: Did more static route configuring, this time using the window in config. It's the same premise with the same info, just less time consuming. Utilized more CIDR notation math.
+
+Lab 10-1: Utilized RIP V2 to create IP routes as an alternative to static routing, remember RIP caps out at 15 hops, anything 16 or greater is unreachable. Basic commands to remember for CLI in order to use RIP V2 are as follows: 1. router rip 2. version 2 3. network *network address*
